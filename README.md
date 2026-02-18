@@ -54,4 +54,4 @@ A custom-built web experience designed for event celebration.
 | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwantmandal26&layout=compact&theme=tokyonight&hide_border=true) | ![Trophies](https://github-profile-trophy.vercel.app/?username=yashwantmandal26&theme=tokyonight&no-frame=true&margin-w=15) |
 
 ## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yashwant-mandal/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://www.linkedin.com/in/yashwant-mandal/](https://www.linkedin.com/in/yashwant-mandal-32a593368/))
