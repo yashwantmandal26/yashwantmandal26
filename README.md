@@ -1,58 +1,74 @@
+<div align="center">
+
 # Hi there, I'm Yashwant Mandal 👋
-![Profile Views](https://komarev.com/ghpvc/?username=yashwantmandal26&color=60a5fa)
-![GitHub followers](https://img.shields.io/github/followers/yashwantmandal26?style=flat-square&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/yashwantmandal26?style=flat-square&logo=github)
+**Master of Computer Applications (MCA) @ VIT Vellore · Android & AI/ML Engineer**
 
----
-
-## 👨‍💻 About Me
-- 🎓 **MCA Student** at **VIT Vellore** (Master of Computer Applications)
-- 🤖 Specialized in **Artificial Intelligence** and **Machine Learning**
-- 📱 Passionate about **Android Development** and building utility-driven apps
-- 🚀 Currently focusing on **Multi-Agent Systems (Samarth)** and **Deepfake Detection** research
-- 📸 Tech enthusiast with a flair for photography and creative problem-solving
-
----
-
-## 🚀 Skills & Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/AI/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 📂 Key Projects
-
-### 🤖 Samarth (Multi-Agent System)
-A dissertation project developed to simplify access to rural government schemes using an intelligent multi-agent framework.
-[🔗 View Repository](https://github.com/yashwantmandal26/Samarth) | ![AI](https://img.shields.io/badge/ML-Research-blueviolet)
-
-### 🕵️ Deepfake Image Detection
-A security-focused project leveraging deep learning to identify manipulated media and combat misinformation.
-[🔗 View Repository](https://github.com/yashwantmandal26/Deepfake-Detection) | ![Security](https://img.shields.io/badge/AI-DeepLearning-red)
-
-### 📱 YearGrid
-A creative Android application that functions as a live wallpaper and widget, tracking the progress of the year in real-time.
-[🔗 View Repository](https://github.com/yashwantmandal26/YearGrid) | ![Android](https://img.shields.io/badge/App-Kotlin-green)
-
----
-
-## 📊 GitHub Analytics
-| Personal Stats | Contribution Streak |
-|--------------|--------------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=yashwantmandal26&show_icons=true&theme=tokyonight&hide_border=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashwantmandal26&theme=tokyonight&hide_border=true) |
-
-| Top Languages | Earned Trophies |
-|---------------|----------|
-| ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwantmandal26&layout=compact&theme=tokyonight&hide_border=true) | ![Trophies](https://github-profile-trophy.vercel.app/?username=yashwantmandal26&theme=tokyonight&no-frame=true&margin-w=15) |
-
----
-
-## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwant-mandal-32a593368/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwantmandal26@gmail.com)
+[![Live Demo](https://img.shields.io/badge/Live_App-WebsiteOrganiser-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://websiteorganiser2.web.app)
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+- 🎓 **MCA Graduate Student** at **VIT Vellore** (Master of Computer Applications)
+- 🤖 Specialized in **Artificial Intelligence & Machine Learning**, **NLP**, and **Multi-Agent Systems**
+- 📱 Passionate about **Native Android Development** (Kotlin / Android Jetpack) & utility-driven system tools
+- 💻 Building practical, high-impact desktop utilities, web applications, and research implementations
+- 📸 Creative thinker with an eye for detail, system design, and clean user experience
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+| Domain | Technologies & Libraries |
+| :--- | :--- |
+| **Languages** | `Kotlin`, `Python`, `Java`, `TypeScript`, `JavaScript`, `SQL` |
+| **Mobile & Desktop** | `Android Jetpack`, `Coroutines`, `ExoPlayer`, `Tkinter / CustomTkinter`, `Windows API` |
+| **AI / Machine Learning** | `TensorFlow`, `PyTorch`, `Scikit-Learn`, `NLP / Sentiment Analysis`, `Pandas`, `NumPy` |
+| **Web & Cloud** | `Firebase`, `Progressive Web Apps (PWA)`, `REST APIs`, `FastAPI`, `Vercel` |
+| **Developer Tools** | `Git`, `GitHub Actions`, `Postman`, `Android Studio`, `VS Code` |
+
+---
+
+### 🚀 Featured Engineering Projects
+
+#### 💻 [Infinix GT Book Custom Control Center](https://github.com/yashwantmandal26/Infinix-GT-Book-Custom-Control-Center)
+> **Python · Desktop Hardware Utility · MIT Licensed**
+> - Dedicated open-source Windows management center for the **Infinix GT Book** laptop ecosystem.
+> - Controls chassis and keyboard lighting modes, performance profiles, custom cooling curves, and real-time hardware diagnostics.
+> - Packaged standalone release builds for ease of installation.
+
+#### 🌐 [WebsiteOrganiser (PWA)](https://github.com/yashwantmandal26/WebsiteOrganiser) · [Live App ↗](https://websiteorganiser2.web.app)
+> **JavaScript · Firebase · PWA**
+> - Interactive dashboard and link organizer featuring a sleek frosted glass aesthetic, audio interaction cues, custom tiles, and smart search.
+> - Integrated with real-time Firebase cloud sync and offline PWA functionality.
+
+#### 📱 [AllRounderPlayer](https://github.com/yashwantmandal26/AllRounderPlayer)
+> **Kotlin · Android SDK · Jetpack Architecture**
+> - Modern native Android media player engineered for smooth playback, adaptive playlist handling, and clean material design.
+
+#### 🤖 [Samarth (Intelligent Multi-Agent System)](https://github.com/yashwantmandal26/SamarthJHARKHAND)
+> **Python · Multi-Agent Architecture · AI Research**
+> - Multi-agent intelligent assistance framework designed to bridge the gap between rural citizens and regional government welfare programs.
+> - Also available in an [offline-first edition](https://github.com/yashwantmandal26/samarth-OFFILINE) for low-connectivity environments.
+
+#### 💬 [Hinglish Sentiment Analysis](https://github.com/yashwantmandal26/hinglish-sentiment-analysis)
+> **Python · NLP · Machine Learning**
+> - End-to-end natural language processing pipeline and training model for sentiment classification on code-mixed Hindi-English text.
+
+---
+
+### 📊 GitHub Activity & Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashwantmandal26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwantmandal26&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Engineered with care by <b>Yashwant Mandal</b> · Open to opportunities and collaborative engineering.</sub>
+</div>
